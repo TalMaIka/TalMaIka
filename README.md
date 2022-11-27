@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @TalMaIka
 - 📖 B.Sc Computer Science Student @ Ariel University.
 - 👀 26 Years old Tech enthusiast & UX addict.
-- 📫 Tal.Coder@gmail.com / linkedin.com/in/tal-m
+- 📫 Tal.coder@gmail.com / Linkedin.com/in/tal-m
